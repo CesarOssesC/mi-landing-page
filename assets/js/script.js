@@ -1,0 +1,1 @@
+console.log("Hola desde la consola, me salio un verso sin esfuerzo...")
