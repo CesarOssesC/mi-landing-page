@@ -1,0 +1,13 @@
+.btn-blueviolet {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.btn-blueviolet:hover {
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+
+.div-imagen {
+    width: 35%;
+}
